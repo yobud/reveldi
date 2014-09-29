@@ -81,3 +81,7 @@ And then, you just have to create global variable and init Dic in init.go
 Now, you're able to abstract your managers, just use them with the following instruction in your controllers:
 
 > myMessenger := Container.Get("messenger").(message.MessengerInterface)
+
+## See also
+
+You can take a look to a working sample [here](https://github.com/ZeBigDuck/reveldi-sample)
