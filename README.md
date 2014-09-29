@@ -4,6 +4,12 @@ This library allows you to work with services in Revel framework. This is a simp
 Extra simple stuff, just a map that you can fill with your own Structs.
 In facts, this library isn't Revel exclusive, it would work on any go project
 
+## Installation
+
+> go get github.com/zebigduck/reveldi
+
+## Usage
+
 To use it, you need to create a new controller
 
 ```go
